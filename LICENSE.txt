@@ -1,0 +1,59 @@
+Concept-LAB Office Viewer
+Proprietary Software License
+
+Copyright (c) 2026 Concept-LAB BV. All rights reserved.
+
+This software and its accompanying documentation (the "Software") are the
+confidential and proprietary property of Concept-LAB BV. The Software is
+licensed, not sold.
+
+1. GRANT OF LICENSE
+   Subject to the terms below, Concept-LAB BV grants you a personal,
+   non-exclusive, non-transferable, revocable licence to install and use the
+   Software for your own internal purposes.
+
+2. RESTRICTIONS
+   Except to the extent that applicable law prohibits such restrictions, you
+   may not:
+   (a) copy, publish, sell, rent, lease, sublicense, or otherwise distribute
+       the Software or make it available to any third party;
+   (b) modify, adapt, translate, or create derivative works of the Software;
+   (c) reverse engineer, decompile, or disassemble the Software, or attempt to
+       derive its source code;
+   (d) remove, obscure, or alter any copyright, trademark, or other proprietary
+       notice contained in the Software.
+
+3. OWNERSHIP
+   All right, title, and interest in and to the Software, including all
+   intellectual property rights, remain exclusively with Concept-LAB BV. No
+   rights are granted other than those expressly set out in this licence.
+
+4. THIRD-PARTY COMPONENTS
+   The Software incorporates third-party open-source components, which remain
+   subject to their own licences. Those licences and the required attributions
+   are reproduced in THIRD-PARTY-NOTICES.md. Nothing in this licence limits
+   your rights under those third-party licences with respect to those
+   components.
+
+5. NO WARRANTY
+   THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+   IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+   FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT.
+
+6. LIMITATION OF LIABILITY
+   TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, CONCEPT-LAB BV SHALL NOT
+   BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY, WHETHER IN AN ACTION
+   OF CONTRACT, TORT, OR OTHERWISE, ARISING FROM, OUT OF, OR IN CONNECTION WITH
+   THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE. Nothing in this
+   clause excludes liability that cannot lawfully be excluded.
+
+7. TERMINATION
+   This licence terminates automatically if you breach any of its terms. On
+   termination you must cease all use of the Software and destroy all copies in
+   your possession.
+
+8. GOVERNING LAW
+   This licence is governed by the laws of Belgium. The courts of Belgium have
+   exclusive jurisdiction over any dispute arising from it.
+
+Concept-LAB BV
